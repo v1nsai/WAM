@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WAM</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mole_description">A perfidious mole</string>
+</resources>

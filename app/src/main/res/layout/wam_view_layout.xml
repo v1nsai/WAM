@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:rowCount="4"
+    android:useDefaultMargins="true"
+    android:background="@drawable/grass_bg"
+    android:id="@+id/wam_view_layout">
+    <ImageView
+        android:id="@+id/mole1"
+        android:visibility="invisible"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole2"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole3"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole4"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole5"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole6"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole7"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole8"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole9"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole10"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole11"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+    <ImageView
+        android:id="@+id/mole12"
+        android:layout_width="120dip"
+        android:layout_height="140dip"
+        android:contentDescription="@string/mole_description"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/mole" />
+
+</GridLayout>
